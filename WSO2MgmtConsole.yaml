@@ -2,7 +2,7 @@ id: WSO2MgmtConsole-panel
 
 info:
   name: WSO2MgmtConsole Panel
-  author: @wasp76b
+  author: wasp76b
   severity: info
   tags: panel,WSO2MgmtConsole
 
